@@ -1,0 +1,28 @@
+.lit {
+    background-color: white;
+    color: black;
+  }
+  .dark {
+    background-color: black;
+    color: white;
+  }
+
+  .ButtonOn{
+    color: White;
+    background-color: skyblue;
+    padding: 5px;
+    
+  }
+
+  .ButtonOff{
+    color: Black;
+    background-color: skyblue;
+    padding: 5px;
+  }
+
+  .DegreeAdd{
+    color: Red;
+    background-color: skyblue;
+    padding: 5px;
+  }
+  
